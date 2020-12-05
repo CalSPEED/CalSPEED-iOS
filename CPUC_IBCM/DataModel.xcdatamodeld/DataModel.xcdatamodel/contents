@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="15G1212" minimumToolsVersion="Xcode 4.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="StandardTestResult" representedClassName="StandardTestResult" syncable="YES">
+        <attribute name="delay" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="delayVariation" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="downloadSpeed" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="meanOpinionScore" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="networkType" attributeType="String" defaultValueString="N/A" syncable="YES"/>
+        <attribute name="testDate" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadSpeed" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="videoConference" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="videoMetric" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voip" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="StandardTestResult" positionX="-54" positionY="-9" width="128" height="225"/>
+    </elements>
+</model>

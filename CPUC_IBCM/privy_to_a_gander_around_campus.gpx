@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="36.6526217" lon="-121.7959352">
+  <name>36.6526217,-121.7959352</name>
+  <desc>Divarty / Building 25 (Library), United States</desc>
+</wpt>
+<wpt lat="36.653186" lon="-121.7970907">
+  <name>36.653186,-121.7970907</name>
+  <desc>3057 Divarty Street, Seaside, CA 93955, USA</desc>
+</wpt>
+<wpt lat="36.653919" lon="-121.797579">
+  <name>36.653919,-121.797579</name>
+  <desc>3057 Divarty Street, Seaside, CA 93955, USA</desc>
+</wpt>
+<wpt lat="36.6538663" lon="-121.8008078">
+  <name>36.6538663,-121.8008078</name>
+  <desc>5105 Fourth Avenue, Seaside, CA 93955, USA</desc>
+</wpt>
+<wpt lat="36.6538858" lon="-121.8013293">
+  <name>36.6538858,-121.8013293</name>
+  <desc>5105 Fourth Avenue, Seaside, CA 93955, USA</desc>
+</wpt>
+<wpt lat="36.6547836" lon="-121.8013046">
+  <name>36.6547836,-121.8013046</name>
+  <desc>2053 Inter-Garrison Road, Marina, CA 93933, USA</desc>
+</wpt>
+<wpt lat="36.65479" lon="-121.802722">
+  <name>36.65479,-121.802722</name>
+  <desc>6013 General Jim Moore Boulevard, Marina, CA 93933, USA</desc>
+</wpt>
+<wpt lat="36.65289" lon="-121.8023238">
+  <name>General Jim Moore Blvd &amp; Divarty St &amp; General Jim Moore Blvd, Seaside, CA 93955</name>
+</wpt>
+<trk>
+  <name>Divarty / Building 25 (Library) - 3057 Divarty Street</name>
+  <desc>0.2 km, 0:02</desc>
+  <trkseg>
+    <trkpt lat="36.65261" lon="-121.79592"></trkpt>
+    <trkpt lat="36.65273" lon="-121.79606"></trkpt>
+    <trkpt lat="36.65273" lon="-121.79614"></trkpt>
+    <trkpt lat="36.65273" lon="-121.79635"></trkpt>
+    <trkpt lat="36.65273" lon="-121.79635"></trkpt>
+    <trkpt lat="36.65284" lon="-121.79635"></trkpt>
+    <trkpt lat="36.65284" lon="-121.79635"></trkpt>
+    <trkpt lat="36.65284" lon="-121.79626"></trkpt>
+    <trkpt lat="36.65284" lon="-121.79626"></trkpt>
+    <trkpt lat="36.6529" lon="-121.7963"></trkpt>
+    <trkpt lat="36.65296" lon="-121.7963"></trkpt>
+    <trkpt lat="36.65296" lon="-121.79642"></trkpt>
+    <trkpt lat="36.65295" lon="-121.79647"></trkpt>
+    <trkpt lat="36.65291" lon="-121.79649"></trkpt>
+    <trkpt lat="36.65291" lon="-121.79652"></trkpt>
+    <trkpt lat="36.65292" lon="-121.79658"></trkpt>
+    <trkpt lat="36.65298" lon="-121.79662"></trkpt>
+    <trkpt lat="36.65303" lon="-121.79664"></trkpt>
+    <trkpt lat="36.65303" lon="-121.79673"></trkpt>
+    <trkpt lat="36.65317" lon="-121.79673"></trkpt>
+    <trkpt lat="36.65318" lon="-121.79708"></trkpt>
+    <trkpt lat="36.65318" lon="-121.79709"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>3057 Divarty Street - 3057 Divarty Street</name>
+  <desc>0.1 km, 0:01</desc>
+  <trkseg>
+    <trkpt lat="36.65318" lon="-121.79709"></trkpt>
+    <trkpt lat="36.6532" lon="-121.79713"></trkpt>
+    <trkpt lat="36.6532" lon="-121.79718"></trkpt>
+    <trkpt lat="36.65321" lon="-121.79741"></trkpt>
+    <trkpt lat="36.65325" lon="-121.79748"></trkpt>
+    <trkpt lat="36.65365" lon="-121.79748"></trkpt>
+    <trkpt lat="36.65366" lon="-121.79748"></trkpt>
+    <trkpt lat="36.65366" lon="-121.79748"></trkpt>
+    <trkpt lat="36.6537" lon="-121.79758"></trkpt>
+    <trkpt lat="36.65375" lon="-121.79765"></trkpt>
+    <trkpt lat="36.65381" lon="-121.7977"></trkpt>
+    <trkpt lat="36.65384" lon="-121.79773"></trkpt>
+    <trkpt lat="36.65384" lon="-121.79773"></trkpt>
+    <trkpt lat="36.65385" lon="-121.79773"></trkpt>
+    <trkpt lat="36.65388" lon="-121.79767"></trkpt>
+    <trkpt lat="36.6539" lon="-121.79762"></trkpt>
+    <trkpt lat="36.65391" lon="-121.79757"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>3057 Divarty Street - 5105 Fourth Avenue</name>
+  <desc>0.3 km, 0:04</desc>
+  <trkseg>
+    <trkpt lat="36.65391" lon="-121.79757"></trkpt>
+    <trkpt lat="36.65392" lon="-121.79758"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79762"></trkpt>
+    <trkpt lat="36.65396" lon="-121.79769"></trkpt>
+    <trkpt lat="36.65397" lon="-121.79774"></trkpt>
+    <trkpt lat="36.65397" lon="-121.79774"></trkpt>
+    <trkpt lat="36.65406" lon="-121.79799"></trkpt>
+    <trkpt lat="36.65408" lon="-121.79809"></trkpt>
+    <trkpt lat="36.65408" lon="-121.79815"></trkpt>
+    <trkpt lat="36.65407" lon="-121.79821"></trkpt>
+    <trkpt lat="36.65406" lon="-121.79827"></trkpt>
+    <trkpt lat="36.65406" lon="-121.7983"></trkpt>
+    <trkpt lat="36.65403" lon="-121.79838"></trkpt>
+    <trkpt lat="36.654" lon="-121.79845"></trkpt>
+    <trkpt lat="36.65397" lon="-121.79849"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79855"></trkpt>
+    <trkpt lat="36.65392" lon="-121.79865"></trkpt>
+    <trkpt lat="36.6539" lon="-121.7988"></trkpt>
+    <trkpt lat="36.65389" lon="-121.79886"></trkpt>
+    <trkpt lat="36.6539" lon="-121.79894"></trkpt>
+    <trkpt lat="36.6539" lon="-121.79896"></trkpt>
+    <trkpt lat="36.65391" lon="-121.79903"></trkpt>
+    <trkpt lat="36.65392" lon="-121.79906"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79914"></trkpt>
+    <trkpt lat="36.65396" lon="-121.79927"></trkpt>
+    <trkpt lat="36.65398" lon="-121.79933"></trkpt>
+    <trkpt lat="36.65401" lon="-121.79941"></trkpt>
+    <trkpt lat="36.65401" lon="-121.79944"></trkpt>
+    <trkpt lat="36.65402" lon="-121.79949"></trkpt>
+    <trkpt lat="36.65402" lon="-121.79955"></trkpt>
+    <trkpt lat="36.654" lon="-121.79959"></trkpt>
+    <trkpt lat="36.654" lon="-121.7996"></trkpt>
+    <trkpt lat="36.65398" lon="-121.79965"></trkpt>
+    <trkpt lat="36.65396" lon="-121.79971"></trkpt>
+    <trkpt lat="36.65394" lon="-121.79974"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79977"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79982"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79987"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79988"></trkpt>
+    <trkpt lat="36.65393" lon="-121.79992"></trkpt>
+    <trkpt lat="36.65394" lon="-121.79996"></trkpt>
+    <trkpt lat="36.65396" lon="-121.8"></trkpt>
+    <trkpt lat="36.65397" lon="-121.80002"></trkpt>
+    <trkpt lat="36.65399" lon="-121.80006"></trkpt>
+    <trkpt lat="36.65401" lon="-121.80008"></trkpt>
+    <trkpt lat="36.65402" lon="-121.80011"></trkpt>
+    <trkpt lat="36.65402" lon="-121.80016"></trkpt>
+    <trkpt lat="36.65402" lon="-121.80017"></trkpt>
+    <trkpt lat="36.65402" lon="-121.80021"></trkpt>
+    <trkpt lat="36.65401" lon="-121.80029"></trkpt>
+    <trkpt lat="36.65401" lon="-121.80031"></trkpt>
+    <trkpt lat="36.654" lon="-121.80034"></trkpt>
+    <trkpt lat="36.65398" lon="-121.80035"></trkpt>
+    <trkpt lat="36.65396" lon="-121.80036"></trkpt>
+    <trkpt lat="36.65395" lon="-121.80037"></trkpt>
+    <trkpt lat="36.65393" lon="-121.80043"></trkpt>
+    <trkpt lat="36.6539" lon="-121.80048"></trkpt>
+    <trkpt lat="36.65388" lon="-121.80052"></trkpt>
+    <trkpt lat="36.65384" lon="-121.80055"></trkpt>
+    <trkpt lat="36.6538" lon="-121.8006"></trkpt>
+    <trkpt lat="36.6538" lon="-121.8006"></trkpt>
+    <trkpt lat="36.65389" lon="-121.80068"></trkpt>
+    <trkpt lat="36.65389" lon="-121.80068"></trkpt>
+    <trkpt lat="36.65387" lon="-121.80073"></trkpt>
+    <trkpt lat="36.65387" lon="-121.80075"></trkpt>
+    <trkpt lat="36.65387" lon="-121.8008"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>5105 Fourth Avenue - 5105 Fourth Avenue</name>
+  <desc>0.0 km, 0:01</desc>
+  <trkseg>
+    <trkpt lat="36.65387" lon="-121.8008"></trkpt>
+    <trkpt lat="36.65388" lon="-121.80134"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>5105 Fourth Avenue - 2053 Inter-Garrison Road</name>
+  <desc>0.1 km, 0:01</desc>
+  <trkseg>
+    <trkpt lat="36.65388" lon="-121.80134"></trkpt>
+    <trkpt lat="36.65393" lon="-121.80133"></trkpt>
+    <trkpt lat="36.6543" lon="-121.80131"></trkpt>
+    <trkpt lat="36.65478" lon="-121.8013"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>2053 Inter-Garrison Road - 6013 General Jim Moore Boulevard</name>
+  <desc>0.1 km, 0:01</desc>
+  <trkseg>
+    <trkpt lat="36.65478" lon="-121.8013"></trkpt>
+    <trkpt lat="36.65479" lon="-121.80272"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>6013 General Jim Moore Boulevard - General Jim Moore Blvd &amp; Divarty St &amp; General Jim Moore Blvd, Seaside, CA 93955</name>
+  <desc>0.2 km, 0:03</desc>
+  <trkseg>
+    <trkpt lat="36.65479" lon="-121.80272"></trkpt>
+    <trkpt lat="36.65441" lon="-121.80272"></trkpt>
+    <trkpt lat="36.65419" lon="-121.80267"></trkpt>
+    <trkpt lat="36.6536" lon="-121.80235"></trkpt>
+    <trkpt lat="36.65337" lon="-121.80228"></trkpt>
+    <trkpt lat="36.65315" lon="-121.80224"></trkpt>
+    <trkpt lat="36.65289" lon="-121.80232"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
